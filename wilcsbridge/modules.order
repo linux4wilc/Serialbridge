@@ -1,0 +1,2 @@
+kernel/drivers/staging/wilcsbridge/wilcsbridge-sdio.ko
+kernel/drivers/staging/wilcsbridge/wilcsbridge-spi.ko
