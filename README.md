@@ -6,7 +6,7 @@
     3. wilc_sbridge.h
     4. wilc3000_ble_burst_firmware.h
     5. sbridge_app.c
-    6. Demo binaries for SAMA5D4 Xplained Pro board
+    
 
 ## Kernel Compilation with Serial Bridge Driver
   Perform the following to compile the kernel with Serial Bridge driver.
