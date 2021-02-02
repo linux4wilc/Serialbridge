@@ -1,11 +1,12 @@
 # LinuxSerialBridge
 
   The Linux Serial Bridge includes the following deliverables:
-    1. wilcsbridge_sdio.c
-    2. wilcsbridge_spi.c
-    3. wilc_sbridge.h
-    4. wilc3000_ble_burst_firmware.h
-    5. sbridge_app.c
+  
+   1. wilcsbridge_sdio.c
+   2. wilcsbridge_spi.c
+   3. wilc_sbridge.h
+   4. wilc3000_ble_burst_firmware.h
+   5. sbridge_app.c
     
 
 ## Kernel Compilation with Serial Bridge Driver
