@@ -1,3 +1,4 @@
+***Note: This demo/tool uses a WILC driver from the deprecated repository linux4wilc. The new driver repository is located at [linux4sam]( https://github.com/linux4sam/linux-at91/tree/master/drivers/staging/wilc1000).***
 # LinuxSerialBridge
 
   The Linux Serial Bridge includes the following deliverables:
